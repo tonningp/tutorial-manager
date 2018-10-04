@@ -16,4 +16,4 @@
 - composer install
 
 ## MacOS
--[Valet](https://laravel.com/docs/5.7/valet)
+- [Valet](https://laravel.com/docs/5.7/valet)
