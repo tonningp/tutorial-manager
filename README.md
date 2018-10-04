@@ -1,5 +1,5 @@
 # Tutorial Manager
-    [Markdown on Github](https://guides.github.com/features/mastering-markdown/)
+    [Markdown on Github](https://guides.github.com/features/mastering-markdown)
 
 ## Installation 
     Requires php 7.2
