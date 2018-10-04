@@ -8,3 +8,6 @@ pull:
 
 rme:
 	vi README.md
+
+serve:
+	php artisan serve
