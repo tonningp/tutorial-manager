@@ -5,3 +5,6 @@ push:
 
 pull:
 	git pull
+
+rme:
+	vi README.md
