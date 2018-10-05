@@ -11,3 +11,6 @@ rme:
 
 serve:
 	php artisan serve
+
+key:
+	php artisan key:generate
