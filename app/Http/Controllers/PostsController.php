@@ -71,7 +71,16 @@ hello("Hello World")
             'theme' => env('THEME'),
         ]);
     }
+
     public function learnHTML() {
         return 'learn-html';
+    }
+
+    public function learnCSS() {
+        return 'learn-css';
+    }
+
+    public function learnColors() {
+        return 'learn-colors';
     }
 }

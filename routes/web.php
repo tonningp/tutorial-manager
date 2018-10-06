@@ -13,3 +13,5 @@
 
 Route::get('/','PostsController@index');
 Route::get('/learn-html','PostsController@learnHTML');
+Route::get('/learn-css','PostsController@learnCSS');
+Route::get('/learn-colors','PostsController@learnColors');
